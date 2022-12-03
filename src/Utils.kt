@@ -1,6 +1,13 @@
+@file:Suppress("unused")
+
 import java.io.File
 import java.math.BigInteger
 import java.security.MessageDigest
+
+fun getInput() = readInput("input")
+
+fun getTestInput() = readInput("input_test")
+
 
 /**
  * Reads lines from the given input txt file.
