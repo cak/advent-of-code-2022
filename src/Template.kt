@@ -10,7 +10,8 @@ fun main() {
     val testInput = getTestInput()
     check(part1(testInput) == 1)
 
-    val input = getInput()
-    println(part1(input))
-    println(part2(input))
+//    val input = getInput()
+//    println(part1(input))
+//    check(part2(testInput) == 70)
+//    println(part2(input))
 }
